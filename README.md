@@ -1,5 +1,5 @@
 # RP-5.7K
- [Link of Paper](https://ieeexplore.ieee.org/document/11026867)
+ [Link of Paper](https://doi.org/10.1109/TIM.2025.3576955)
 
 Small-sized rat pose estimation dataset.
 
